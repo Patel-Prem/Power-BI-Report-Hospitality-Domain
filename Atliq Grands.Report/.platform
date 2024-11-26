@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Atliq Grands"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "084f9918-7a67-46b9-9fe7-befc31239778"
+  }
+}

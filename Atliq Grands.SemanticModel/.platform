@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Atliq Grands"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1d62a1d9-4424-4189-aa97-1491ef005a90"
+  }
+}
