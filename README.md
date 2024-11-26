@@ -44,7 +44,7 @@ The dataset includes:
 ## 🖼️ Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Images/dashboard_overview.png)
 
 > More visuals can be found in the Power BI report.
 
